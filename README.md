@@ -1,2 +1,2 @@
 # Smart-skin-Diagnosis
-SmartSkin Diagnosis is an intelligent application designed to diagnose skin diseases
+SmartSkin Diagnosis is an intelligent application designed to diagnose skin diseases using advanced image processing and natural language processing (NLP) techniques. The application analyzes skin images to identify potential conditions, such as skin cancer, acne, and other dermatological issues. Through a combination of CNN-based image analysis and NLP-driven insights, SmartSkin Diagnosis provides users with accurate diagnostic information and personalized reports. Additionally, the application allows users to ask questions related to their diagnosis, offering a comprehensive.  and user-friendly experience in skin health management.
